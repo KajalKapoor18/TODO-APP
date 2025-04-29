@@ -1,25 +1,20 @@
-TODO App
+📝 TODO App
 
-The TODO App is a lightweight and user-friendly application designed to help users organize and manage their tasks. Built with HTML, CSS, and JavaScript, it allows you to add, edit, delete, and mark tasks as completed. The app ensures task persistence by storing data in the browser's local storage, so your tasks remain intact even after refreshing the page. Whether you're managing daily to-dos or long-term projects, this app provides a simple solution for task management.
+This JavaScript project focuses on building a simple, yet functional, to-do list application that allows users to manage tasks effectively.
 
+📋 Features:
 
-Features
+Task Management
+Objective: Add, edit, and delete tasks with ease.
+Constraints: Tasks are stored in the browser’s local storage, ensuring persistence even after page refresh.
+Technique: Simple HTML, CSS for the interface, and JavaScript for functionality.
+Task Completion
+Objective: Mark tasks as completed by clicking a checkbox.
+Constraints: A simple toggle to update the task's completion status.
+Technique: Event handling with JavaScript to modify the task's visual appearance.
+🔧 Technologies Used:
 
-Add new tasks with titles and descriptions.
-Mark tasks as completed.
-Delete tasks.
-Edit task details.
-Task persistence using local storage (tasks are saved even when the page is refreshed).
-
-Technologies Used
-
-HTML5
-CSS3
+HTML
+CSS
 JavaScript
-Local Storage
-Usage
-
-Add a Task: Type the task title and description, then click the "Add" button.
-Mark Task as Completed: Click the checkbox next to a task to mark it as completed.
-Delete Task: Click the delete button next to a task to remove it.
-Edit Task: Click the edit button next to a task to update its details.
+This gives a structured breakdown of the key aspects of your TODO app project!
